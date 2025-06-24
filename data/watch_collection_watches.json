@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "name": "Hublot MP-10 Tourbillon",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/c2a36185-19be-48dc-80ca-a40cd1e930ce.jpg",
+            "link": "https://www.shopar.ai/collection/watches?product=66618cf59d3fb1edda45d3ba&mode=3d",
+            "slug": "hublot-mp-10-tourbillon"
+        },
+        {
+            "name": "Hublot Spirit Of Big Bang Full Magic Gold",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/34b97066-cf29-4941-9d0c-581084f5981e.png",
+            "link": "https://www.shopar.ai/collection/watches?product=65f48bb59ae86ec2a67a435d&mode=3d",
+            "slug": "hublot-spirit-of-big-bang-full-magic-gold"
+        },
+        {
+            "name": "Movado Alta Super Sub Sea Automatic",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/165c3844-6301-4398-b8fd-7b15f0032e16.jpg",
+            "link": "https://www.shopar.ai/collection/watches?product=657218fa3c333cddc7d2341c&mode=3d",
+            "slug": "movado-alta-super-sub-sea-automatic"
+        },
+        {
+            "name": "Swatch Obsidian Ink",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/12df7df7-fecd-412e-bea5-02e92c312408.webp",
+            "link": "https://www.shopar.ai/collection/watches?product=66ba01a114de953c80003cfc&mode=3d",
+            "slug": "swatch-obsidian-ink"
+        },
+        {
+            "name": "Swatch Caramellissima",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/eb5e18b9-400c-4c14-b752-86d2be88a482.avif",
+            "link": "https://www.shopar.ai/collection/watches?product=66ba06f314de953c8000719c&mode=3d",
+            "slug": "swatch-caramellissima"
+        },
+        {
+            "name": "Swatch Random Ghost",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/d670348a-0aee-4916-b011-a8943b1d7496.jpg",
+            "link": "https://www.shopar.ai/collection/watches?product=67129023c904b2a2777efe9d&mode=3d",
+            "slug": "swatch-random-ghost"
+        },
+        {
+            "name": "Swatch Up In Smoke",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/425b727b-c788-46b3-adb2-4cdfb9a39c2c.png",
+            "link": "https://www.shopar.ai/collection/watches?product=6712989ac904b2a2777f39ed&mode=3d",
+            "slug": "swatch-up-in-smoke"
+        },
+        {
+            "name": "Swatch Cobalt Lagoon",
+            "image_url": "https://dj5e08oeu5ym4.cloudfront.net/thumb/cd3708cc-75fc-4f43-a8b3-011b061dba36.webp",
+            "link": "https://www.shopar.ai/collection/watches?product=66ba071914de953c8000722f&mode=3d",
+            "slug": "swatch-cobalt-lagoon"
+        }
+    ]
+}
